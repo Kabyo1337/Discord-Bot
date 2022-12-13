@@ -30,4 +30,4 @@ client.on("messageCreate", (message) => {
 
 
 
-client.login("MTA1MjAwMjY2MzgyNDM2MzYwMQ.G8jcNR.OVU4tlhOTZtrlN5VKrKTVKj8PMalVeEDXr-TVI");
+client.login("inputyourDiscordTOKENhere");
